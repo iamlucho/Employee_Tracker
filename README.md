@@ -30,9 +30,22 @@ THEN I am prompted to enter the employee’s first name, last name, role, and ma
 WHEN I choose to update an employee role
 THEN I am prompted to select an employee to update and their new role and this information is updated in the database
 ```
+## Installation
+Before running the employee tracker app, please ensure all the necessary node modules are installed:
+```
+npm install
+```
+Create the SQL Database using the .db/schema.sql
+
+Populate the database with .db/seeds.sql
+
+You can run the application using the following command:
+```
+npm start
+```
 ## Mock-Up
 The following is a screenshot of the application:
-![Mock-Up of Application](https://)
+![Mock-Up of Application](./src/img/screenshot.png)
 
 ## Walkthrough Video
 Follow the link to watch the video that demostrates the functionality of the employee tracker:
