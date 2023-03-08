@@ -45,8 +45,10 @@ npm start
 ```
 ## Mock-Up
 The following is a screenshot of the application:
+
 ![Mock-Up of Application](./src/img/screenshot.png)
 
 ## Walkthrough Video
 Follow the link to watch the video that demostrates the functionality of the employee tracker:
-[URL]()
+
+[URL](https://drive.google.com/file/d/1W4rMF2TVZ8Gl97Ie9BU1HJPp1c_n1YSO/view)
